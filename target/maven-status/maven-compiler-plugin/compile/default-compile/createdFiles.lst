@@ -1,0 +1,8 @@
+com\koko\extractor\TextExtractor.class
+com\koko\DocumentService.class
+com\koko\extractor\PdfExtract.class
+com\koko\Document.class
+com\koko\extractor\DocxExtract.class
+com\koko\extractor\TxtExtract.class
+com\koko\extractor\DocReturnExtract.class
+com\koko\Main.class
